@@ -1,6 +1,6 @@
 {
   "name": "harmony-worker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make web worker more easy to use.",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/dminor112/harmony-worker.git"
   },
   "author": "allen",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/dminor112/harmony-worker/issues"
   },
